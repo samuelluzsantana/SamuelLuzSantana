@@ -21,7 +21,7 @@
 <hr>
 
 ### Linguagens que eu domino:
-<div style="display: inline_block" align="">
+<div style="display: inline_block">
  <img align="center" alt="html" height="45" width="50" src="https://i.imgur.com/KV1gB8q.png">
   <img align="center" alt="css" height="45" width="50" src="https://i.imgur.com/fp0FFvi.png">
     <img align="center" alt="javascrip" height="55" width="60" src="https://i.imgur.com/a9vQhJp.png">
@@ -39,13 +39,15 @@
 
 </div>
 
-
+<div align="center">
 <hr>
  <a href = "mailto:slsamuelluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samuelluzsantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://instagram.com/sxwuell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <hr>
   
+</div>
+
 ![Snekaer animation](https://github.com/SamuelLuzSantana/SamuelLuzSantana/blob/output/github-user-contribution.svg)
 
 
