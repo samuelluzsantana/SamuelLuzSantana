@@ -2,8 +2,9 @@
 
 <div align="justify">
  Ola, Tenho 18 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador ʙᴀᴄᴋ ᴇɴᴅ
+ <br>
 </div>
-<br>
+
 - 👨🏾‍💻 **Estou sempre tentando aprender algo novo**
 -  😅 **Eu nunca sei o que deixar de commit -m**
 - 🥅 **Meta de 2021 : Estudar ainda mais e me aperfeiçoar em C#**
