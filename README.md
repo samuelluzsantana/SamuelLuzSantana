@@ -1,9 +1,9 @@
  # <div align="center"> Oi :) , Eu sou sou o [Samuel](https://samuelluzsantana.github.io/samuel)  (●'◡'●) </div>
 
 <div align="justify">
- Ola, Tenho 18 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador back-end
+ Ola, Tenho 18 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador ʙᴀᴄᴋ ᴇɴᴅ
 </div>
-
+<br>
 - 👨🏾‍💻 **Estou sempre tentando aprender algo novo**
 -  😅 **Eu nunca sei o que deixar de commit -m**
 - 🥅 **Meta de 2021 : Estudar ainda mais e me aperfeiçoar em C#**
@@ -12,7 +12,7 @@
 
   <div>
   <a align="left" href="https://github.com/SamuelLuzSantana">
-  <img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=SamuelLuzSantana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="200em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=SamuelLuzSantana&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLuzSantana&layout=compact&langs_count=7&theme=react"/>
 </div>
 <hr>
