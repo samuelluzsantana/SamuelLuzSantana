@@ -12,7 +12,7 @@
 
   <div>
   <a align="left" href="https://github.com/SamuelLuzSantana">
-  <img height="190em" width="45%"  src="https://github-readme-stats.vercel.app/api?username=SamuelLuzSantana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="430em" width="45%"  src="https://github-readme-stats.vercel.app/api?username=SamuelLuzSantana&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=issues"/>
   <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLuzSantana&layout=compact&langs_count=7&theme=react"/>
 </div>
 <hr>
