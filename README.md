@@ -1,7 +1,7 @@
  # <div align="center"> Oi :) , Eu sou sou o [Samuel](https://samuelluzsantana.github.io/samuel)  (●'◡'●) </div>
 
 <div align="justify">
- Ola, Tenho 18 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador Back-end
+ Ola, Tenho 18 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador Front-end
 
 
 </div>
@@ -9,7 +9,7 @@
 
 - 👨🏾‍💻 **Estou sempre tentando aprender algo novo**
 -  😅 **Eu nunca sei o que deixar de commit -m**
-- 🥅 **Meta de 2021 : Estudar ainda mais e me aperfeiçoar em C#**
+- 🥅 **Meta de 2021 : Estudar ainda mais e me aperfeiçoar em Desenvolvimento Web**
 - 🤔 **Fato Curioso : Eu amo a música e toco violino desde os meus 10 anos, e sempre tive um carinho gigantesco por artes.**
 <hr>
 
