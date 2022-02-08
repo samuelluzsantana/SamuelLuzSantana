@@ -9,7 +9,7 @@
 
 - 👨🏾‍💻 **Estou sempre tentando aprender algo novo**
 -  😅 **Eu nunca sei o que deixar de commit -m**
-- 🥅 **Meta de 2021 : Estudar ainda mais e me aperfeiçoar em Desenvolvimento Web**
+- 🥅 **Meta de 2022 : Estudar ainda mais e me aperfeiçoar em Desenvolvimento Front-End**
 - 🤔 **Fato Curioso : Eu amo a música e toco violino desde os meus 10 anos, e sempre tive um carinho gigantesco por artes.**
 <hr>
 
