@@ -1,4 +1,4 @@
- # <div align="center"> Olá, Eu sou sou o [Samuel](https://samuelluzsantana.github.io/portifolio/)  (●'◡'●) </div>
+ # <div align="center"> Olá, Eu sou sou o [Samuel](https://samuelluz.com/)  (●'◡'●) </div>
 
 <div align="justify">
  Tenho 19 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador Front-end. Estudo Ciência e Tecnologia na UFABC, prazer em conhecer. 
