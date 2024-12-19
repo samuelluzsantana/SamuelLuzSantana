@@ -1,4 +1,5 @@
- # <div align="center"> Olá, Eu sou sou o [Samuel](https://samuelluz.com/)  (●'◡'●) </div>
+ # <div align="center"> Olá, Eu sou sou o [Samuel](https://itsmesamuel.vercel.app/)  (●'◡'●) </div>
+
 
 <div align="justify">
  Tenho 20 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador Front-end. Estudo Ciência e Tecnologia na UFABC, prazer em conhecer. 
@@ -9,7 +10,7 @@
 
 - 👨🏾‍💻 **Estou sempre tentando aprender algo novo**
 -  😅 **Eu nunca sei o que deixar de commit -m**
-- 🥅 **Meta de 2022 : Estudar ainda mais e me aperfeiçoar em Desenvolvimento Front-End**
+- 🥅 **Meta de 2025 :  Front-End at Itau**
 - 🤔 **Fato Curioso : Eu amo a música e toco violino desde os meus 10 anos, e sempre tive um carinho gigantesco por artes.**
 <hr>
 
