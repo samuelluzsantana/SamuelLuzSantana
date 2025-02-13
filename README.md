@@ -42,11 +42,11 @@
 
 <div align="center">
 <hr>
+ ![](https://komarev.com/ghpvc/?username=samuelluzsantana)
  <a href = "mailto:slsamuelluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samuelluzsantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/sxwuell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-   <hr>
+ <a href="https://instagram.com/sxwuell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<hr>
   
 </div>
 
