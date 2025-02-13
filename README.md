@@ -2,6 +2,7 @@
 
 
 <div align="justify">
+ ![](https://komarev.com/ghpvc/?username=samuelluzsantana) 
  Tenho 20 anos e estudo programação desde 2018, sou uma pessoa perseverante e busco sempre tentar superar novos desafios, por isso eu escolhi a area de T.I e pretendo um dia me tornar um programador Front-end. Estudo Ciência e Tecnologia na UFABC, prazer em conhecer. 
 
 
@@ -42,7 +43,6 @@
 
 <div align="center">
 <hr>
- ![](https://komarev.com/ghpvc/?username=samuelluzsantana)
  <a href = "mailto:slsamuelluz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=Black" target="_blank"></a>
  <a href="https://www.linkedin.com/in/samuelluzsantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com/sxwuell" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
