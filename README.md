@@ -7,7 +7,7 @@
 </a>
 </div>
 
-<div  align="center">
+<div  align="left">
 	<a  href="https://github.com/SamuelLuzSantana"  target="_blank">  <img  src="https://komarev.com/ghpvc/?username=SamuelLuzSantana&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github&logoColor=white"  alt="Profile Views"/></a>  <!-- Followers -->  <a  href="https://github.com/SamuelLuzSantana?tab=followers"  target="_blank">  <img  alt="Followers"  title="Follow me on GitHub"  src="https://img.shields.io/github/followers/SamuelLuzSantana?style=for-the-badge&label=Followers&color=0e75b6&logo=github"/>  </a>  <!-- Stars -->  <a  href="https://github.com/SamuelLuzSantana?tab=repositories&sort=stargazers"  target="_blank">  <img  alt="Total Stars"  title="Total stars on GitHub"  src="https://img.shields.io/github/stars/SamuelLuzSantana?style=for-the-badge&label=Stars&color=ffb347&logo=github"/>  </a>  
 </div>
 
@@ -30,11 +30,15 @@
 	I'm 22 years old and have been studying programming since 2018. I'm a persistent person, always looking to overcome new challenges — that's what led me to choose the field of Information Technology. I'm currently pursuing a degree in Science and Technology at UFABC, and my goal is to become a Front-end Developer.
 	</samp>
 <div/>
-
+	
+  </br>
+	
     it's nice to meet you!
 
 <br>  
-<h2>i code with
+
+## i code with
+
 
 <table>
   <tr>
@@ -119,8 +123,10 @@
 
 ###
 
-  <br>
+  </br>
+  
   ---
+  
  <img src="https://media.tenor.com/JJ_is357rXYAAAAM/spike-monkey-typing.gif" height="240" width="100%" alt="Music Gif"/>
 
 ---
