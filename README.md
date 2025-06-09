@@ -49,6 +49,17 @@
   
 </div>
 
+<div align="center">
+ 
+[![Sammy Sam Pt.1](https://img.shields.io/badge/Sammy%20Sam%20Pt.1-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6te7PjfyIJgPJRbVR2PVkg) [![I'm Justing a Running Boy](https://img.shields.io/badge/I'm%20Justing%20a%20Running%20Boy-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0IPq36X4iESwzOQHV0b0kx) [![Just Walk](https://img.shields.io/badge/Just%20Walk-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2JnsMagwgqCI1B8GGx4GmS) [![Mr. Morale & The Big Steppers](https://img.shields.io/badge/Mr.%20Morale%20%26%20The%20Big%20Steppers-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX)
+
+
+ [![Spotify - Now Playing](https://sxwuel-spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/user/ut3erivfijyo55y6qnggqcdu9)
+
+
+
+</div>
+
 ![Snekaer animation](https://github.com/SamuelLuzSantana/SamuelLuzSantana/blob/output/github-user-contribution.svg)
 
 
