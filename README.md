@@ -15,7 +15,6 @@
 
 <!--- type wryter --->
 
----
 
 <a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&color=2F00F7&width=435&lines=front+end+developer;pls+call+me+sam+%3A)+;working+at+itau;i+%3C3+JS;they+calll+me+sam+sometimes;%40sxwuell;I+should+study+more+Java.."  alt="Typing SVG"  /></a>
 
