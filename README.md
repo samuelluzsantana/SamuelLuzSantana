@@ -1,4 +1,4 @@
-# Hi, i'm [𝗦𝗮𝗺𝘂𝗲𝗹 𝗟𝘂𝘇 ── . ✦](https://itsmesamuel.vercel.app/)
+# Hi, i'm [𝗦𝗮𝗺𝘂𝗲𝗹 𝗟𝘂𝘇 ── . ✦](https://luz.is-a.dev/)
 
 <!-- banner header -->
 <div>
